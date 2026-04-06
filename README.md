@@ -2,7 +2,7 @@
 
 Aplicación frontend desarrollada con React que consume la API de buses.
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 * React 18
 * JavaScript
