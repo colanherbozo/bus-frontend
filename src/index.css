@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.bg-custom-purple {
+  background-color: #582885 !important;
+  color: white; 
+}
+
+.btn-custom-purple {
+  background-color: #582885 !important;
+  border-color: #582885 !important;
+  color: white !important;
+}
+
+.btn-custom-purple:hover {
+    background-color: #46206a !important; 
+    border-color: #46206a !important;
+    color: white !important;
+}
